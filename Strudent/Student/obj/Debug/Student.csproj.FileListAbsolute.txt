@@ -1,0 +1,17 @@
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\bin\Debug\Student.exe.config
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\bin\Debug\Student.exe
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\bin\Debug\Student.pdb
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student.csprojAssemblyReference.cache
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\MainWindow.g.cs
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\App.g.cs
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student_MarkupCompile.cache
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student_MarkupCompile.lref
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\MainWindow.baml
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student.g.resources
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student.csproj.GenerateResource.cache
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student.exe
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student.pdb
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\AddStForm.g.cs
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\AddStForm.baml
