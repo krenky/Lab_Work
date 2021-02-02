@@ -1,15 +1,21 @@
-﻿<Window x:Class="Student.MainWindow"
+﻿<Window
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Student"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="Student.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Grid HorizontalAlignment="Left" Height="152" Margin="10,10,0,0" VerticalAlignment="Top" Width="361"/>
-        <Button x:Name="add_button" Content="Add" HorizontalAlignment="Left" Margin="10,167,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
-        <Button Content="Delete" HorizontalAlignment="Left" Margin="90,167,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="add_button" Content="Add" HorizontalAlignment="Left" Margin="10,389,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="90,389,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <DataGrid HorizontalAlignment="Left" Height="374" Margin="10,10,0,0" VerticalAlignment="Top" Width="772" SelectionChanged="DataGrid_SelectionChanged" IsSynchronizedWithCurrentItem="True">
+            <DataGrid.DataContext>
+                <local:student/>
+            </DataGrid.DataContext>
+            <local:student/>
+        </DataGrid>
 
     </Grid>
 </Window>

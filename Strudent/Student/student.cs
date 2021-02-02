@@ -10,18 +10,18 @@ namespace Student
     {
         private String Name;
         private List<int> Marks;
+        private int Sred = 0;
         public string Name1 { get => Name; set => Name = value; }
         public List<int> Marks1 { get => Marks; set => Marks = value; }
-        
-        public int _Sred()
+        public int Sred1 { get => Sred; set => Sred = value; }
+
+        public void _Sred()
         {
-            int Sum = 0;
             foreach (int i in Marks1)
             {
-                Sum = i + Sum;
+                Sred = i + Sred;
             }
-            Sum = Sum / Marks1.Count();
-            return Sum;
+            Sred = Sred / Marks1.Count();
         }
         /*public void add(String name)
         {

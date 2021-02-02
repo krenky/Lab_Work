@@ -30,8 +30,28 @@ namespace Student
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Window1 Add_window = new Window1();
-            student1.Name1 = Add_window.name;
-            Students.Add(student1);
+            Add_window.ShowDialog();
+            if (Add_window.DialogResult == true)
+            {
+                student1.Name1 = Add_window.name;
+                Students.Add(student1);
+            }
+            
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Window2 Del_window = new Window2();
+            Del_window.ShowDialog();
+            if (Del_window.DialogResult == true)
+            {
+                Students.RemoveAt(Del_window.index);
+            }
+        }
+
+        private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            
         }
     }
 }

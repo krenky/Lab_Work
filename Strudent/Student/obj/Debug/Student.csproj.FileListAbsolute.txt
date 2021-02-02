@@ -15,3 +15,6 @@ C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student.exe
 C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Student.pdb
 C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\AddStForm.g.cs
 C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\AddStForm.baml
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Window2.g.cs
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\Window2.baml
+C:\Users\strange\Desktop\git_exercise\Strudent\Student\obj\Debug\GeneratedInternalTypeHelper.g.cs
