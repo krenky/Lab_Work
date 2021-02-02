@@ -1,0 +1,13 @@
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\obj\Debug\netcoreapp3.1\Tree_Console.csprojAssemblyReference.cache
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\obj\Debug\netcoreapp3.1\Tree_Console.AssemblyInfoInputs.cache
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\obj\Debug\netcoreapp3.1\Tree_Console.AssemblyInfo.cs
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\obj\Debug\netcoreapp3.1\Tree_Console.csproj.CoreCompileInputs.cache
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\bin\Debug\netcoreapp3.1\Tree_Console.exe
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\bin\Debug\netcoreapp3.1\Tree_Console.deps.json
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\bin\Debug\netcoreapp3.1\Tree_Console.runtimeconfig.json
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\bin\Debug\netcoreapp3.1\Tree_Console.runtimeconfig.dev.json
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\bin\Debug\netcoreapp3.1\Tree_Console.dll
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\bin\Debug\netcoreapp3.1\Tree_Console.pdb
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\obj\Debug\netcoreapp3.1\Tree_Console.dll
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\obj\Debug\netcoreapp3.1\Tree_Console.pdb
+C:\Users\strange\Desktop\git_exercise\Tree_Console\Tree_Console\obj\Debug\netcoreapp3.1\Tree_Console.genruntimeconfig.cache
