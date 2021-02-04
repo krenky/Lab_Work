@@ -27,14 +27,21 @@ namespace Student
         }
         List<student> Students = new List<student>();
         student student1 = new student();
+        int Index = 0;
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Window1 Add_window = new Window1();
+            Window3 AddMark = new Window3();
             Add_window.ShowDialog();
             if (Add_window.DialogResult == true)
             {
                 student1.Name1 = Add_window.name;
                 Students.Add(student1);
+                AddMark.ShowDialog();
+                if (AddMark.DialogResult == true)
+                {
+                    Students[Index].Marks1.Add(Convert.ToInt32(AddMark.Add_mark));
+                }
             }
             
         }
@@ -52,6 +59,54 @@ namespace Student
         private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             
+        }
+
+        private void Left_Click(object sender, RoutedEventArgs e)
+        {
+            if (Students.Count > 0)
+            {
+                if (Students.Count == 1)
+                {
+                    name_set.Content = Students[Index].Name1;
+                    markss.Content = Students[Index].Out_marks();
+                    Sred.Content = Students[Index].sred();
+                }
+                else
+                {
+                    Index--;
+                    name_set.Content = Students[Index].Name1;
+                    markss.Content = Students[Index].Out_marks();
+                    Sred.Content = Students[Index].sred();
+                }
+            }
+            else
+            {
+                
+            }
+        }
+
+        private void Right_Click(object sender, RoutedEventArgs e)
+        {
+            if (Students.Count > 0)
+            {
+                if (Students.Count == 1)
+                {
+                    name_set.Content = Students[Index].Name1;
+                    markss.Content = Students[Index].Out_marks();
+                    Sred.Content = Students[Index].sred();
+                }
+                else
+                {
+                    Index++;
+                    name_set.Content = Students[Index].Name1;
+                    markss.Content = Students[Index].Out_marks();
+                    Sred.Content = Students[Index].sred();
+                }
+            }
+            else
+            {
+
+            }
         }
     }
 }

@@ -6,16 +6,16 @@
         xmlns:local="clr-namespace:Student"
         xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="Student.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="169" Width="390">
     <Grid>
-        <Button x:Name="add_button" Content="Add" HorizontalAlignment="Left" Margin="10,389,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
-        <Button Content="Delete" HorizontalAlignment="Left" Margin="90,389,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
-        <DataGrid HorizontalAlignment="Left" Height="374" Margin="10,10,0,0" VerticalAlignment="Top" Width="772" SelectionChanged="DataGrid_SelectionChanged" IsSynchronizedWithCurrentItem="True">
-            <DataGrid.DataContext>
-                <local:student/>
-            </DataGrid.DataContext>
-            <local:student/>
-        </DataGrid>
+        <Button x:Name="add_button" Content="Add" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="90,36,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Label x:Name="Name_st" Content="Name - " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="name_set" Content="Name" HorizontalAlignment="Left" Margin="63,10,0,0" VerticalAlignment="Top" Width="65"/>
+        <Label x:Name="markss" Content="Marks" HorizontalAlignment="Left" Margin="133,10,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label x:Name="Sred" Content="Sred" HorizontalAlignment="Left" Margin="278,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Left" Content="&lt;&lt;" HorizontalAlignment="Left" Margin="10,61,0,0" VerticalAlignment="Top" Width="75" Click="Left_Click"/>
+        <Button x:Name="Right" Content="&gt;&gt;" HorizontalAlignment="Left" Margin="90,61,0,0" VerticalAlignment="Top" Width="75" Click="Right_Click"/>
 
     </Grid>
 </Window>

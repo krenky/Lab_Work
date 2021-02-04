@@ -15,17 +15,31 @@ namespace Student
         public List<int> Marks1 { get => Marks; set => Marks = value; }
         public int Sred1 { get => Sred; set => Sred = value; }
 
-        public void _Sred()
+        public String sred()
         {
-            foreach (int i in Marks1)
+            int sred = 0;
+            if (Marks1.Count > 0)
             {
-                Sred = i + Sred;
+                foreach (int i in Marks1)
+                {
+                    sred = i + sred;
+                }
+                sred = sred / Marks1.Count();
+                Sred1 = sred;
             }
-            Sred = Sred / Marks1.Count();
+            return Convert.ToString(sred);
         }
-        /*public void add(String name)
+        public string Out_marks()
         {
-            Name1 = Name1;
-        }*/
+            string marks = "";
+            if (Marks1.Count != null)
+            {
+                foreach (int i in Marks1)
+                {
+                    marks = marks + Convert.ToString(i) + ",";
+                }
+            }
+            return marks;
+        }
     }
 }
