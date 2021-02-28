@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Spis_abon/1.0.0": {
+        "runtime": {
+          "Spis_abon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spis_abon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\bin\Debug\Abonent.exe.config
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\bin\Debug\Abonent.exe
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\bin\Debug\Abonent.pdb
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\obj\Debug\Abonent.csprojAssemblyReference.cache
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\obj\Debug\Abonent.Properties.Resources.resources
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\obj\Debug\Abonent.csproj.GenerateResource.cache
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\obj\Debug\Abonent.csproj.CoreCompileInputs.cache
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\obj\Debug\Abonent.exe
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\obj\Debug\Abonent.pdb
+C:\Users\strange\Desktop\git_exercise\Abonent\Abonent\obj\Debug\Abonent.Form1.resources

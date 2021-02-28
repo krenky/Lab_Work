@@ -1,0 +1,13 @@
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\obj\Debug\netcoreapp3.1\Spis_abon.csprojAssemblyReference.cache
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\obj\Debug\netcoreapp3.1\Spis_abon.AssemblyInfoInputs.cache
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\obj\Debug\netcoreapp3.1\Spis_abon.AssemblyInfo.cs
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\obj\Debug\netcoreapp3.1\Spis_abon.csproj.CoreCompileInputs.cache
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\bin\Debug\netcoreapp3.1\Spis_abon.exe
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\bin\Debug\netcoreapp3.1\Spis_abon.deps.json
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\bin\Debug\netcoreapp3.1\Spis_abon.runtimeconfig.json
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\bin\Debug\netcoreapp3.1\Spis_abon.runtimeconfig.dev.json
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\bin\Debug\netcoreapp3.1\Spis_abon.dll
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\bin\Debug\netcoreapp3.1\Spis_abon.pdb
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\obj\Debug\netcoreapp3.1\Spis_abon.dll
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\obj\Debug\netcoreapp3.1\Spis_abon.pdb
+C:\Users\strange\Desktop\git_exercise\List_abon\Spis_abon\Spis_abon\obj\Debug\netcoreapp3.1\Spis_abon.genruntimeconfig.cache

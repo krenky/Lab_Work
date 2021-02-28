@@ -81,8 +81,9 @@ namespace Hesh
             int Hash = 0;
             foreach (int i in Item)
             {
-                Hash = Hash + ((i + Index) % V) + 1;
+                Hash = Hash + i;
             }
+            Hash = ((Hash + Index) % V) + 1;
             return Hash;
         }
         public bool Search(string Item)
@@ -91,7 +92,20 @@ namespace Hesh
             {
                 return true;
             }
-            else return false;
+            else
+            {
+                for(int i = 0; i < Table.Length; i++)
+                {
+                    if (Hesh_Fun(Item, i) < Table.Length)
+                    {
+                        if (Table[Hesh_Fun(Item, i)] == Item)
+                        {
+                            return true;
+                        }
+                    }
+                }
+                return false;
+            }
         }
         public string Out()
         {

@@ -1,0 +1,13 @@
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\bin\Debug\netcoreapp3.1\Danilka.exe
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\bin\Debug\netcoreapp3.1\Danilka.deps.json
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\bin\Debug\netcoreapp3.1\Danilka.runtimeconfig.json
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\bin\Debug\netcoreapp3.1\Danilka.runtimeconfig.dev.json
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\bin\Debug\netcoreapp3.1\Danilka.dll
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\bin\Debug\netcoreapp3.1\Danilka.pdb
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\obj\Debug\netcoreapp3.1\Danilka.csprojAssemblyReference.cache
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\obj\Debug\netcoreapp3.1\Danilka.AssemblyInfoInputs.cache
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\obj\Debug\netcoreapp3.1\Danilka.AssemblyInfo.cs
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\obj\Debug\netcoreapp3.1\Danilka.csproj.CoreCompileInputs.cache
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\obj\Debug\netcoreapp3.1\Danilka.dll
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\obj\Debug\netcoreapp3.1\Danilka.pdb
+C:\Users\strange\Desktop\git_exercise\Danilka\Danilka\obj\Debug\netcoreapp3.1\Danilka.genruntimeconfig.cache
