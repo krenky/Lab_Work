@@ -1,0 +1,26 @@
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\bin\Debug\netcoreapp3.1\Hesh.exe
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\bin\Debug\netcoreapp3.1\Hesh.deps.json
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\bin\Debug\netcoreapp3.1\Hesh.runtimeconfig.json
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\bin\Debug\netcoreapp3.1\Hesh.runtimeconfig.dev.json
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\bin\Debug\netcoreapp3.1\Hesh.dll
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\bin\Debug\netcoreapp3.1\Hesh.pdb
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\obj\Debug\netcoreapp3.1\Hesh.csprojAssemblyReference.cache
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\obj\Debug\netcoreapp3.1\Hesh.AssemblyInfoInputs.cache
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\obj\Debug\netcoreapp3.1\Hesh.AssemblyInfo.cs
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\obj\Debug\netcoreapp3.1\Hesh.csproj.CoreCompileInputs.cache
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\obj\Debug\netcoreapp3.1\Hesh.dll
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\obj\Debug\netcoreapp3.1\Hesh.pdb
+C:\Users\strange\Desktop\git_exercise\Hesh\Hesh\obj\Debug\netcoreapp3.1\Hesh.genruntimeconfig.cache
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\bin\Debug\netcoreapp3.1\Hesh.exe
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\bin\Debug\netcoreapp3.1\Hesh.deps.json
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\bin\Debug\netcoreapp3.1\Hesh.runtimeconfig.json
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\bin\Debug\netcoreapp3.1\Hesh.runtimeconfig.dev.json
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\bin\Debug\netcoreapp3.1\Hesh.dll
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\bin\Debug\netcoreapp3.1\Hesh.pdb
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\obj\Debug\netcoreapp3.1\Hesh.csprojAssemblyReference.cache
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\obj\Debug\netcoreapp3.1\Hesh.AssemblyInfoInputs.cache
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\obj\Debug\netcoreapp3.1\Hesh.AssemblyInfo.cs
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\obj\Debug\netcoreapp3.1\Hesh.csproj.CoreCompileInputs.cache
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\obj\Debug\netcoreapp3.1\Hesh.dll
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\obj\Debug\netcoreapp3.1\Hesh.pdb
+C:\Users\strange\Desktop\git_exercise\Hesh — Spis\Hesh\obj\Debug\netcoreapp3.1\Hesh.genruntimeconfig.cache

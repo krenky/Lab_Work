@@ -22,7 +22,8 @@ namespace Abon_ocon
         }
         public Abon Search(string Name_Abonent, Node_abon parent)
         {
-            if(parent != null)
+            Abon Not = new Abon("Не найден");
+            if (parent != null)
             {
                 if (parent.abon.Name == Name_Abonent)
                 {
@@ -38,13 +39,14 @@ namespace Abon_ocon
                 Abon Not_found = new Abon("Не найден");
                 return Not_found;
             }
+            return Not;
         }
         
     }
     class Node_abon
     {
         private Abon _Abon;
-        private Node_abon _left;
+        //private Node_abon _left;
         private Node_abon _right;
 
         public Abon abon

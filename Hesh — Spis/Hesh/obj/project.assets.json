@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\strange\\Desktop\\git_exercise\\Hesh\\Hesh\\Hesh.csproj",
+      "projectUniqueName": "C:\\Users\\strange\\Desktop\\git_exercise\\Hesh — Spis\\Hesh\\Hesh.csproj",
       "projectName": "Hesh",
-      "projectPath": "C:\\Users\\strange\\Desktop\\git_exercise\\Hesh\\Hesh\\Hesh.csproj",
+      "projectPath": "C:\\Users\\strange\\Desktop\\git_exercise\\Hesh — Spis\\Hesh\\Hesh.csproj",
       "packagesPath": "C:\\Users\\strange\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\strange\\Desktop\\git_exercise\\Hesh\\Hesh\\obj\\",
+      "outputPath": "C:\\Users\\strange\\Desktop\\git_exercise\\Hesh — Spis\\Hesh\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
