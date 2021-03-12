@@ -1,14 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace figur
 {
     class Circle : Figure
     {
         int r;
+
+        public Circle()
+        {
+            
+        }
+
+        public Circle(int r)
+        {
+            this.r = r;
+        }
 
         public int R { get => r; set => r = value; }
 

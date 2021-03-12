@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace figur
+﻿namespace figur
 {
     abstract class Figure
     {
@@ -30,5 +24,10 @@ namespace figur
             this.Y = Y;
         }
         public abstract void Show();
+        public void MoveTo(int DeltaX, int DeltaY)
+        {
+            this.X = +DeltaX;
+            this.Y = +DeltaY;
+        }
     }
 }

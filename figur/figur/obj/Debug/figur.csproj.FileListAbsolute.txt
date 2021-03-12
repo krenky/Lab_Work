@@ -7,3 +7,6 @@ C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.csproj.Generat
 C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.csproj.CoreCompileInputs.cache
 C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.exe
 C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.pdb
+C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.CircleFormInput.resources
+C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.ElipseFormInput.resources
+C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.Form1.resources
