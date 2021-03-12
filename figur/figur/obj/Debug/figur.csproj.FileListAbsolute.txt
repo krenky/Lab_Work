@@ -1,0 +1,9 @@
+C:\Users\strange\Desktop\git_exercise\figur\figur\bin\Debug\figur.exe.config
+C:\Users\strange\Desktop\git_exercise\figur\figur\bin\Debug\figur.exe
+C:\Users\strange\Desktop\git_exercise\figur\figur\bin\Debug\figur.pdb
+C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.csprojAssemblyReference.cache
+C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.Properties.Resources.resources
+C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.csproj.GenerateResource.cache
+C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.csproj.CoreCompileInputs.cache
+C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.exe
+C:\Users\strange\Desktop\git_exercise\figur\figur\obj\Debug\figur.pdb
